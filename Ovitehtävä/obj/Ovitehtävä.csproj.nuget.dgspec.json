@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s2101075\\OneDrive - Business College Helsinki\\Työpöytä\\Eero tehtävät\\Ovitehtävä\\Ovitehtävä.csproj": {}
+    "/Users/timi/Desktop/koulutehtavat/Ovitehtävä/Ovitehtävä.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s2101075\\OneDrive - Business College Helsinki\\Työpöytä\\Eero tehtävät\\Ovitehtävä\\Ovitehtävä.csproj": {
+    "/Users/timi/Desktop/koulutehtavat/Ovitehtävä/Ovitehtävä.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s2101075\\OneDrive - Business College Helsinki\\Työpöytä\\Eero tehtävät\\Ovitehtävä\\Ovitehtävä.csproj",
+        "projectUniqueName": "/Users/timi/Desktop/koulutehtavat/Ovitehtävä/Ovitehtävä.csproj",
         "projectName": "Ovitehtävä",
-        "projectPath": "C:\\Users\\s2101075\\OneDrive - Business College Helsinki\\Työpöytä\\Eero tehtävät\\Ovitehtävä\\Ovitehtävä.csproj",
-        "packagesPath": "C:\\Users\\s2101075\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s2101075\\OneDrive - Business College Helsinki\\Työpöytä\\Eero tehtävät\\Ovitehtävä\\obj\\",
+        "projectPath": "/Users/timi/Desktop/koulutehtavat/Ovitehtävä/Ovitehtävä.csproj",
+        "packagesPath": "/Users/timi/.nuget/packages/",
+        "outputPath": "/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\s2101075\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/timi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

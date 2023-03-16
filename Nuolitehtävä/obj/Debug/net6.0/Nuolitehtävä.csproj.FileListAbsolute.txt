@@ -1,15 +1,30 @@
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\Nuolitehtävä.csproj.AssemblyReference.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\Nuolitehtävä.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\Nuolitehtävä.AssemblyInfoInputs.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\Nuolitehtävä.AssemblyInfo.cs
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\Nuolitehtävä.csproj.CoreCompileInputs.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\bin\Debug\net6.0\Nuolitehtävä.exe
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\bin\Debug\net6.0\Nuolitehtävä.deps.json
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\bin\Debug\net6.0\Nuolitehtävä.runtimeconfig.json
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\bin\Debug\net6.0\Nuolitehtävä.dll
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\bin\Debug\net6.0\Nuolitehtävä.pdb
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\Nuolitehtävä.dll
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\refint\Nuolitehtävä.dll
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\Nuolitehtävä.pdb
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\Nuolitehtävä.genruntimeconfig.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Nuolitehtävä\obj\Debug\net6.0\ref\Nuolitehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.csproj.AssemblyReference.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.AssemblyInfoInputs.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.AssemblyInfo.cs
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.csproj.CoreCompileInputs.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä.exe
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä.deps.json
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä.runtimeconfig.json
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä.pdb
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/refint/Nuolitehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.pdb
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.genruntimeconfig.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Nuolitehtävä/obj/Debug/net6.0/ref/Nuolitehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.csproj.AssemblyReference.cache
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.AssemblyInfoInputs.cache
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.AssemblyInfo.cs
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.csproj.CoreCompileInputs.cache
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/ref/Nuolitehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.pdb
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä.deps.json
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä.runtimeconfig.json
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/bin/Debug/net6.0/Nuolitehtävä.pdb
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/refint/Nuolitehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/Debug/net6.0/Nuolitehtävä.genruntimeconfig.cache

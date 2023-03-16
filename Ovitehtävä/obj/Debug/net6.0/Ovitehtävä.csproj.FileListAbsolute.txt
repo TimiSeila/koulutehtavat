@@ -1,15 +1,30 @@
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\Ovitehtävä.csproj.AssemblyReference.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\Ovitehtävä.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\Ovitehtävä.AssemblyInfoInputs.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\Ovitehtävä.AssemblyInfo.cs
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\Ovitehtävä.csproj.CoreCompileInputs.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\bin\Debug\net6.0\Ovitehtävä.exe
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\bin\Debug\net6.0\Ovitehtävä.deps.json
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\bin\Debug\net6.0\Ovitehtävä.runtimeconfig.json
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\bin\Debug\net6.0\Ovitehtävä.dll
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\bin\Debug\net6.0\Ovitehtävä.pdb
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\Ovitehtävä.dll
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\refint\Ovitehtävä.dll
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\Ovitehtävä.pdb
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\Ovitehtävä.genruntimeconfig.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ovitehtävä\obj\Debug\net6.0\ref\Ovitehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.csproj.AssemblyReference.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.AssemblyInfoInputs.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.AssemblyInfo.cs
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.csproj.CoreCompileInputs.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä.exe
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä.deps.json
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä.runtimeconfig.json
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä.pdb
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/refint/Ovitehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.pdb
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.genruntimeconfig.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ovitehtävä/obj/Debug/net6.0/ref/Ovitehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä.deps.json
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä.runtimeconfig.json
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/bin/Debug/net6.0/Ovitehtävä.pdb
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.csproj.AssemblyReference.cache
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.AssemblyInfoInputs.cache
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.AssemblyInfo.cs
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.csproj.CoreCompileInputs.cache
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/refint/Ovitehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.pdb
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/Ovitehtävä.genruntimeconfig.cache
+/Users/timi/Desktop/koulutehtavat/Ovitehtävä/obj/Debug/net6.0/ref/Ovitehtävä.dll

@@ -1,15 +1,30 @@
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\bin\Debug\net6.0\Ruokatehtävä.exe
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\bin\Debug\net6.0\Ruokatehtävä.deps.json
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\bin\Debug\net6.0\Ruokatehtävä.runtimeconfig.json
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\bin\Debug\net6.0\Ruokatehtävä.dll
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\bin\Debug\net6.0\Ruokatehtävä.pdb
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\Ruokatehtävä.csproj.AssemblyReference.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\Ruokatehtävä.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\Ruokatehtävä.AssemblyInfoInputs.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\Ruokatehtävä.AssemblyInfo.cs
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\Ruokatehtävä.csproj.CoreCompileInputs.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\Ruokatehtävä.dll
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\refint\Ruokatehtävä.dll
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\Ruokatehtävä.pdb
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\Ruokatehtävä.genruntimeconfig.cache
-C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\Eero tehtävät\Ruokatehtävä\obj\Debug\net6.0\ref\Ruokatehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä.exe
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä.deps.json
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä.runtimeconfig.json
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä.pdb
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.csproj.AssemblyReference.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.AssemblyInfoInputs.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.AssemblyInfo.cs
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.csproj.CoreCompileInputs.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/refint/Ruokatehtävä.dll
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.pdb
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.genruntimeconfig.cache
+C:/Users/s2101075/OneDrive - Business College Helsinki/Työpöytä/Eero tehtävät/Ruokatehtävä/obj/Debug/net6.0/ref/Ruokatehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä.deps.json
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä.runtimeconfig.json
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/bin/Debug/net6.0/Ruokatehtävä.pdb
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.csproj.AssemblyReference.cache
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.AssemblyInfoInputs.cache
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.AssemblyInfo.cs
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.csproj.CoreCompileInputs.cache
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/refint/Ruokatehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.pdb
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/Ruokatehtävä.genruntimeconfig.cache
+/Users/timi/Desktop/koulutehtavat/Ruokatehtävä/obj/Debug/net6.0/ref/Ruokatehtävä.dll

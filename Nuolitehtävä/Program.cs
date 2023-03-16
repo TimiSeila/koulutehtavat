@@ -1,4 +1,5 @@
 ﻿using System;
+
 class Nuoli
 {
     static void Main()
@@ -19,7 +20,7 @@ class Nuoli
         Console.WriteLine("Kotkansulka");
         valittuPera = Console.ReadLine();
 
-        Console.WriteLine("Minkä pituisen varren haluat? 60-100(cm)");
+        Console.WriteLine("Minkä pituisen varren haluat? (cm)");
         varsiPituus = int.Parse(Console.ReadLine());
 
         Console.WriteLine("Nuolesi hinta on " + PalautaHinta(varsiPituus, valittuKarki, valittuPera) + " kultaa");
@@ -28,9 +29,37 @@ class Nuoli
     static float PalautaHinta(int pituus, string karki, string pera)
     {
         float sum = 0;
+
+        karki.ToLower();
+        pera.ToLower();
+
+        switch (karki)
+        {
+            case "puu":
+                sum += (float)NuolenKarki.Puu;
+                break;
+            case "teräs":
+                sum += (float)NuolenKarki.Teräs;
+                break;
+            case "timantti":
+                sum += (float)NuolenKarki.Timantti;
+                break;
+        }
+
+        switch (pera)
+        {
+            case "lehti":
+                sum += (float)NuolenPera.Lehti;
+                break;
+            case "kanansulka":
+                sum += (float)NuolenPera.Kanansulka;
+                break;
+            case "kotkansulka":
+                sum += (float)NuolenPera.Kotkansulka;
+                break;
+        }
+
         sum += 0.5f * pituus;
-
-
 
         return sum;
     }

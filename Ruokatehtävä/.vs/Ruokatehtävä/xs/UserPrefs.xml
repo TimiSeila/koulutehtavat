@@ -1,18 +1,17 @@
-﻿<Properties StartupConfiguration="{EBDB771A-4C83-4FD2-AA25-78F474DC5992}|Default">
+﻿<Properties StartupConfiguration="{5C7DF885-2535-4BE7-8A21-AAD36D7057BA}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Nuolitehtävä PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="34" Column="16" />
+      <File FileName="Program.cs" Line="33" Column="115" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Nuolitehtävä" expanded="True">
-            <Node name="Nuolitehtävä" expanded="True">
+          <Node name="Ruokatehtävä" expanded="True">
+            <Node name="Ruokatehtävä" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +20,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ruokatehtävä PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
