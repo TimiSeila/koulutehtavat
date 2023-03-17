@@ -19,59 +19,62 @@ Console.WriteLine("Nuolesi hinta on " + nuoli.PalautaHinta(nuoli) + " kultaa");
 
 class Nuoli
 {
-    private Nuolenkarki _karki;
-    Nuolenpera _pera;
-    int _varsi;
+    public Nuolenkarki Karki { get;set;}
+
+    public Nuolenpera Pera { get;set;}
+
+    public float Varsi { get;set;}
+
     public Nuoli(string karki, string pera, int varsi)
     {
         switch (karki)
         {
             case "puu":
-                _karki = Nuolenkarki.Puu;
+                Karki = Nuolenkarki.Puu;
                 break;
             case "teräs":
-                _karki = Nuolenkarki.Teräs;
+                Karki = Nuolenkarki.Teräs;
                 break;
             case "timantti":
-                _karki = Nuolenkarki.Timantti;
+                Karki = Nuolenkarki.Timantti;
                 break;
         }
 
         switch (pera)
         {
             case "lehti":
-                _pera = Nuolenpera.Lehti;
+                Pera = Nuolenpera.Lehti;
                 break;
             case "kanansulka":
-                _pera = Nuolenpera.Kanansulka;
+                Pera = Nuolenpera.Kanansulka;
                 break;
             case "kotkansulka":
-                _pera = Nuolenpera.Kotkansulka;
+                Pera = Nuolenpera.Kotkansulka;
                 break;
         }
-        _varsi = varsi;
+        Varsi = varsi;
     }
 
     public float GetKarki()
     {
-        return (float)_karki;
+        return (float)Karki;
     }
 
     public float GetPera()
     {
-        return (float)_pera;
+        return (float)Pera;
     }
 
     public float GetVarsi()
     {
-        return (float)_varsi;
+        return (float)Varsi;
     }
 
     public float PalautaHinta(Nuoli nuoli)
     {
         float summa = 0f;
 
-        summa += (float)nuoli._karki + (float)nuoli._pera + (nuoli._varsi * 0.05f);
+        summa += (float)nuoli.Karki + (float)nuoli.Pera + (nuoli.Varsi * 0.05f);
 
         return summa;
     }
