@@ -1,70 +1,67 @@
-﻿using System;
+﻿Console.WriteLine("Minkä kärjen haluat sulkaasi?");
+Console.WriteLine("Puu");
+Console.WriteLine("Teräs");
+Console.WriteLine("Timantti");
+string valittuKarki = Console.ReadLine().ToLower();
+
+Console.WriteLine("Minkä perän haluat sulkaasi?");
+Console.WriteLine("Lehti");
+Console.WriteLine("Kanansulka");
+Console.WriteLine("Kotkansulka");
+string valittuPera = Console.ReadLine().ToLower();
+
+Console.WriteLine("Minkä pituisen varren haluat? (cm)");
+int varsiPituus = int.Parse(Console.ReadLine());
+
+Nuoli nuoli = new Nuoli(valittuKarki, valittuPera, varsiPituus);
+
+Console.WriteLine("Nuolesi hinta on " + nuoli.PalautaHinta(nuoli) + " kultaa");
 
 class Nuoli
 {
-    static void Main()
+    Nuolenkarki _karki;
+    Nuolenpera _pera;
+    int _varsi;
+    public Nuoli(string karki, string pera, int varsi)
     {
-        string valittuKarki;
-        string valittuPera;
-        int varsiPituus;
-
-        Console.WriteLine("Minkä kärjen haluat sulkaasi?");
-        Console.WriteLine("Puu");
-        Console.WriteLine("Teräs");
-        Console.WriteLine("Timantti");
-        valittuKarki = Console.ReadLine();
-
-        Console.WriteLine("Minkä perän haluat sulkaasi?");
-        Console.WriteLine("Lehti");
-        Console.WriteLine("Kanansulka");
-        Console.WriteLine("Kotkansulka");
-        valittuPera = Console.ReadLine();
-
-        Console.WriteLine("Minkä pituisen varren haluat? (cm)");
-        varsiPituus = int.Parse(Console.ReadLine());
-
-        Console.WriteLine("Nuolesi hinta on " + PalautaHinta(varsiPituus, valittuKarki, valittuPera) + " kultaa");
-
-    }
-    static float PalautaHinta(int pituus, string karki, string pera)
-    {
-        float sum = 0;
-
-        karki.ToLower();
-        pera.ToLower();
-
         switch (karki)
         {
             case "puu":
-                sum += (float)NuolenKarki.Puu;
+                _karki = Nuolenkarki.Puu;
                 break;
             case "teräs":
-                sum += (float)NuolenKarki.Teräs;
+                _karki = Nuolenkarki.Teräs;
                 break;
             case "timantti":
-                sum += (float)NuolenKarki.Timantti;
+                _karki = Nuolenkarki.Timantti;
                 break;
         }
 
         switch (pera)
         {
             case "lehti":
-                sum += (float)NuolenPera.Lehti;
+                _pera = Nuolenpera.Lehti;
                 break;
             case "kanansulka":
-                sum += (float)NuolenPera.Kanansulka;
+                _pera = Nuolenpera.Kanansulka;
                 break;
             case "kotkansulka":
-                sum += (float)NuolenPera.Kotkansulka;
+                _pera = Nuolenpera.Kotkansulka;
                 break;
         }
 
-        sum += 0.5f * pituus;
-
-        return sum;
+        _varsi = varsi;
     }
 
-    enum NuolenKarki {Puu = 3, Teräs = 5, Timantti = 50};
-    enum NuolenPera {Lehti = 0, Kanansulka = 1, Kotkansulka = 5};
+    public float PalautaHinta(Nuoli nuoli)
+    {
+        float summa = 0f;
+
+        summa += (float)nuoli._karki + (float)nuoli._pera + (nuoli._varsi * 0.05f);
+
+        return summa;
+    }
 }
 
+enum Nuolenkarki {Puu = 3, Teräs = 5, Timantti = 50};
+enum Nuolenpera {Lehti = 0, Kanansulka = 1, Kotkansulka = 5};
