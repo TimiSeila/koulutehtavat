@@ -19,7 +19,7 @@ Console.WriteLine("Nuolesi hinta on " + nuoli.PalautaHinta(nuoli) + " kultaa");
 
 class Nuoli
 {
-    Nuolenkarki _karki;
+    private Nuolenkarki _karki;
     Nuolenpera _pera;
     int _varsi;
     public Nuoli(string karki, string pera, int varsi)
@@ -49,8 +49,22 @@ class Nuoli
                 _pera = Nuolenpera.Kotkansulka;
                 break;
         }
-
         _varsi = varsi;
+    }
+
+    public float GetKarki()
+    {
+        return (float)_karki;
+    }
+
+    public float GetPera()
+    {
+        return (float)_pera;
+    }
+
+    public float GetVarsi()
+    {
+        return (float)_varsi;
     }
 
     public float PalautaHinta(Nuoli nuoli)
