@@ -1,0 +1,15 @@
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/bin/Debug/net7.0/Repputehtävä
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/bin/Debug/net7.0/Repputehtävä.deps.json
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/bin/Debug/net7.0/Repputehtävä.runtimeconfig.json
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/bin/Debug/net7.0/Repputehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/bin/Debug/net7.0/Repputehtävä.pdb
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/Repputehtävä.csproj.AssemblyReference.cache
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/Repputehtävä.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/Repputehtävä.AssemblyInfoInputs.cache
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/Repputehtävä.AssemblyInfo.cs
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/Repputehtävä.csproj.CoreCompileInputs.cache
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/Repputehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/refint/Repputehtävä.dll
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/Repputehtävä.pdb
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/Repputehtävä.genruntimeconfig.cache
+/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/Debug/net7.0/ref/Repputehtävä.dll

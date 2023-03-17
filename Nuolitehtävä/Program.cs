@@ -28,13 +28,13 @@ switch (nuoliValikko)
 
 void CustomNuoliValikko()
 {
-    Console.WriteLine("Minkä kärjen haluat sulkaasi?");
+    Console.WriteLine("Minkä kärjen haluat nuoleesi?");
     Console.WriteLine("Puu");
     Console.WriteLine("Teräs");
     Console.WriteLine("Timantti");
     string valittuKarki = Console.ReadLine().ToLower();
 
-    Console.WriteLine("Minkä perän haluat sulkaasi?");
+    Console.WriteLine("Minkä perän haluat nuoleesi?");
     Console.WriteLine("Lehti");
     Console.WriteLine("Kanansulka");
     Console.WriteLine("Kotkansulka");

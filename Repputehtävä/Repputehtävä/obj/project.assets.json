@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "/Users/timi/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/Repputehtävä.csproj",
+      "projectName": "Repputehtävä",
+      "projectPath": "/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/Repputehtävä.csproj",
       "packagesPath": "/Users/timi/.nuget/packages/",
-      "outputPath": "/Users/timi/Desktop/koulutehtavat/Nuolitehtävä/obj/",
+      "outputPath": "/Users/timi/Desktop/koulutehtavat/Repputehtävä/Repputehtävä/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/timi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
