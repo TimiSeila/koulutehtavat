@@ -1,9 +1,11 @@
-﻿Backpack backpack = new Backpack();
+﻿using System.Xml.Linq;
+
+Backpack backpack = new Backpack(10, 30f, 20f);
 
 void AddToBackpack()
 {
-    Console.WriteLine("Repussa on tällä hetkellä " + backpack.CurrentItems + "/" + backpack.MaxItems + " tavaraa, " + backpack.CurrentWeight
-    + "/" + backpack.MaxWeight + " painoa, " + backpack.CurrentVolume + "/" + backpack.MaxVolume + " tilaa");
+    Console.WriteLine($"Repussa on tällä hetkellä {backpack.CurrentItems}/{backpack.MaxItems} tavaraa, {backpack.CurrentWeight: #0.00}/{backpack.MaxWeight} painoa, {backpack.CurrentVolume: #0.00}/{backpack.MaxVolume} tilaa");
+    Console.WriteLine(backpack.ToString());
     Console.WriteLine("Minkä tavaran haluat lisätä reppuusi?");
     Console.WriteLine("1. Nuoli");
     Console.WriteLine("2. Jousi");
@@ -93,6 +95,9 @@ void AddToBackpack()
                 AddToBackpack();
             }
             break;
+        default:
+            Console.WriteLine($"{selection} ei ole vaihtoehto");
+            break;
     }
 }
 
@@ -102,59 +107,86 @@ class Item
 {
     public float Weight { get; set; }
     public float Volume { get; set; }
-
-    public Item(float weight, float volume)
+    public string Name { get; set; }
+    
+    public Item(float WEIGHT, float VOLUME, string NAME)
     {
-        Weight = weight;
-        Volume = volume;
+        Weight = WEIGHT;
+        Volume = VOLUME;
+        Name = NAME;
     }
 }
 
 class Arrow : Item
 {
-    public Arrow() : base(0.1f, 0.05f)
+    public Arrow() : base(0.1f, 0.05f, "Nuoli")
     {
 
+    }
+    public override string ToString()
+    {
+        return Name;
     }
 }
 
 class Bow : Item
 {
-    public Bow() : base(1f, 4f)
+    public Bow() : base(1f, 4f, "Jousi")
     {
 
+    }
+
+    public override string ToString()
+    {
+        return Name; 
     }
 }
 
 class Rope : Item
 {
-    public Rope() : base(1f, 1.5f)
+    public Rope() : base(1f, 1.5f, "Köysi")
     {
 
+    }
+    public override string ToString()
+    {
+        return Name;
     }
 }
 
 class Water : Item
 {
-    public Water() : base(2f, 2f)
+    public Water() : base(2f, 2f, "Vesi")
     {
 
+    }
+    public override string ToString()
+    {
+        return Name;
     }
 }
 
 class Meal : Item
 {
-    public Meal() : base(1f, 0.5f)
+    public Meal() : base(1f, 0.5f, "Ateria")
     {
 
+    }
+    public override string ToString()
+    {
+        return Name;
     }
 }
 
 class Sword : Item
 {
-    public Sword() : base(5f, 3f)
+    public Sword() : base(5f, 3f, "Miekka")
     {
 
+    }
+    public override string ToString()
+    {
+        return Name;
     }
 }
 
@@ -164,17 +196,17 @@ class Backpack
     public float MaxWeight { get; set; }
     public float MaxVolume { get; set; }
 
-    public float CurrentItems { get; set; }
+    public int CurrentItems { get; set; }
     public float CurrentWeight { get; set; }
     public float CurrentVolume { get; set; }
 
     Item[] itemsInBackpack = new Item[10];
 
-    public Backpack()
+    public Backpack(int MAXITEMS, float MAXWEIGHT, float MAXVOLUME)
     {
-        MaxItems = 10;
-        MaxWeight = 30f;
-        MaxVolume = 20f;
+        MaxItems = MAXITEMS;
+        MaxWeight = MAXWEIGHT;
+        MaxVolume = MAXVOLUME;
 
         CurrentItems = 0;
         CurrentWeight = 0;
@@ -199,5 +231,19 @@ class Backpack
         }
 
         return false;
+    }
+
+    public override string ToString()
+    {
+        string insideBackpack = "";
+        foreach(Item item in itemsInBackpack)
+        {
+            if(item != null)
+            {
+                insideBackpack = insideBackpack + item.ToString() + ", ";
+            }
+        }
+
+        return $"Repussasi on nyt: {insideBackpack}";
     }
 }

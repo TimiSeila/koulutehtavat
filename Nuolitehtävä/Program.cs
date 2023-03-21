@@ -49,15 +49,15 @@ void CustomNuoliValikko()
 
 class Nuoli
 {
-    public Nuolenkarki Karki { get;set;}
+    private Nuolenkarki Karki { get;set;}
 
-    public Nuolenpera Pera { get;set;}
+    private Nuolenpera Pera { get;set;}
 
-    public float Varsi { get;set;}
+    private float Varsi { get;set;}
 
-    public Nuoli(string karki, string pera, int varsi)
+    public Nuoli(string KARKI, string PERA, int VARSI)
     {
-        switch (karki)
+        switch (KARKI)
         {
             case "puu":
                 Karki = Nuolenkarki.Puu;
@@ -70,7 +70,7 @@ class Nuoli
                 break;
         }
 
-        switch (pera)
+        switch (PERA)
         {
             case "lehti":
                 Pera = Nuolenpera.Lehti;
@@ -82,7 +82,7 @@ class Nuoli
                 Pera = Nuolenpera.Kotkansulka;
                 break;
         }
-        Varsi = varsi;
+        Varsi = VARSI;
     }
 
     public static Nuoli LuoEliittiNuoli()
@@ -115,11 +115,11 @@ class Nuoli
         return (float)Varsi;
     }
 
-    public float PalautaHinta(Nuoli nuoli)
+    public float PalautaHinta(Nuoli NUOLI)
     {
         float summa = 0f;
 
-        summa += (float)nuoli.Karki + (float)nuoli.Pera + (nuoli.Varsi * 0.05f);
+        summa += (float)NUOLI.Karki + (float)NUOLI.Pera + (NUOLI.Varsi * 0.05f);
 
         return summa;
     }
