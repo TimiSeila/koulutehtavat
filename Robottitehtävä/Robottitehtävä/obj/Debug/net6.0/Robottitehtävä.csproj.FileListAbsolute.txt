@@ -1,0 +1,15 @@
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\bin\Debug\net6.0\Robottitehtävä.exe
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\bin\Debug\net6.0\Robottitehtävä.deps.json
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\bin\Debug\net6.0\Robottitehtävä.runtimeconfig.json
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\bin\Debug\net6.0\Robottitehtävä.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\bin\Debug\net6.0\Robottitehtävä.pdb
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\Robottitehtävä.csproj.AssemblyReference.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\Robottitehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\Robottitehtävä.AssemblyInfoInputs.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\Robottitehtävä.AssemblyInfo.cs
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\Robottitehtävä.csproj.CoreCompileInputs.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\Robottitehtävä.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\refint\Robottitehtävä.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\Robottitehtävä.pdb
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\Robottitehtävä.genruntimeconfig.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Robottitehtävä\Robottitehtävä\obj\Debug\net6.0\ref\Robottitehtävä.dll
