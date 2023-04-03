@@ -1,0 +1,15 @@
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/bin/Debug/net7.0/C Kertaus
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/bin/Debug/net7.0/C Kertaus.deps.json
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/bin/Debug/net7.0/C Kertaus.runtimeconfig.json
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/bin/Debug/net7.0/C Kertaus.dll
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/bin/Debug/net7.0/C Kertaus.pdb
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/C Kertaus.csproj.AssemblyReference.cache
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/C Kertaus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/C Kertaus.AssemblyInfoInputs.cache
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/C Kertaus.AssemblyInfo.cs
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/C Kertaus.csproj.CoreCompileInputs.cache
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/C Kertaus.dll
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/refint/C Kertaus.dll
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/C Kertaus.pdb
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/C Kertaus.genruntimeconfig.cache
+/Users/timi/Desktop/koulutehtavat/C# Kertaus/C Kertaus/C Kertaus/obj/Debug/net7.0/ref/C Kertaus.dll
