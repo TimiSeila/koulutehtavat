@@ -1,0 +1,15 @@
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\bin\Debug\net6.0\Ruudukko.exe
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\bin\Debug\net6.0\Ruudukko.deps.json
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\bin\Debug\net6.0\Ruudukko.runtimeconfig.json
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\bin\Debug\net6.0\Ruudukko.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\bin\Debug\net6.0\Ruudukko.pdb
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\Ruudukko.csproj.AssemblyReference.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\Ruudukko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\Ruudukko.AssemblyInfoInputs.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\Ruudukko.AssemblyInfo.cs
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\Ruudukko.csproj.CoreCompileInputs.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\Ruudukko.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\refint\Ruudukko.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\Ruudukko.pdb
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\Ruudukko.genruntimeconfig.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Ruudukkotehtävä\Ruudukko\obj\Debug\net6.0\ref\Ruudukko.dll
