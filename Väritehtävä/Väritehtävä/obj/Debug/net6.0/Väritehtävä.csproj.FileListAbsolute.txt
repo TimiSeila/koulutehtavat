@@ -1,0 +1,15 @@
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\bin\Debug\net6.0\Väritehtävä.exe
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\bin\Debug\net6.0\Väritehtävä.deps.json
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\bin\Debug\net6.0\Väritehtävä.runtimeconfig.json
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\bin\Debug\net6.0\Väritehtävä.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\bin\Debug\net6.0\Väritehtävä.pdb
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\Väritehtävä.csproj.AssemblyReference.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\Väritehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\Väritehtävä.AssemblyInfoInputs.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\Väritehtävä.AssemblyInfo.cs
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\Väritehtävä.csproj.CoreCompileInputs.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\Väritehtävä.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\refint\Väritehtävä.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\Väritehtävä.pdb
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\Väritehtävä.genruntimeconfig.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Väritehtävä\Väritehtävä\obj\Debug\net6.0\ref\Väritehtävä.dll
