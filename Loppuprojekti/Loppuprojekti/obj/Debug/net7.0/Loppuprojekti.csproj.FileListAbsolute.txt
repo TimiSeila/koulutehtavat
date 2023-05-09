@@ -1,0 +1,15 @@
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/bin/Debug/net7.0/Loppuprojekti
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/bin/Debug/net7.0/Loppuprojekti.deps.json
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/bin/Debug/net7.0/Loppuprojekti.runtimeconfig.json
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/bin/Debug/net7.0/Loppuprojekti.dll
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/bin/Debug/net7.0/Loppuprojekti.pdb
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.csproj.AssemblyReference.cache
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.AssemblyInfoInputs.cache
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.AssemblyInfo.cs
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.csproj.CoreCompileInputs.cache
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.dll
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/refint/Loppuprojekti.dll
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.pdb
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.genruntimeconfig.cache
+/Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/ref/Loppuprojekti.dll
