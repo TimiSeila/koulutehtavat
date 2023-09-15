@@ -13,3 +13,18 @@
 /Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.pdb
 /Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/Loppuprojekti.genruntimeconfig.cache
 /Users/timi/Desktop/koulutehtavat/Loppuprojekti/Loppuprojekti/obj/Debug/net7.0/ref/Loppuprojekti.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\bin\Debug\net7.0\Loppuprojekti.exe
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\bin\Debug\net7.0\Loppuprojekti.deps.json
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\bin\Debug\net7.0\Loppuprojekti.runtimeconfig.json
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\bin\Debug\net7.0\Loppuprojekti.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\bin\Debug\net7.0\Loppuprojekti.pdb
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\Loppuprojekti.csproj.AssemblyReference.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\Loppuprojekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\Loppuprojekti.AssemblyInfoInputs.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\Loppuprojekti.AssemblyInfo.cs
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\Loppuprojekti.csproj.CoreCompileInputs.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\Loppuprojekti.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\refint\Loppuprojekti.dll
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\Loppuprojekti.pdb
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\Loppuprojekti.genruntimeconfig.cache
+C:\Users\s2101075\OneDrive - Business College Helsinki\Työpöytä\GitKoulu\Loppuprojekti\Loppuprojekti\obj\Debug\net7.0\ref\Loppuprojekti.dll
